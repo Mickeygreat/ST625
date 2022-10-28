@@ -1,3 +1,6 @@
 # NY real estate group project
-* Conducted data analysis with regression techniques, including the use of transformations such as squares and logarithms, the modeling of interactions, and how to handle problems resulting from heteroscedastic and multicollinearity
-* Analyzed real estate in NY and came up with a multiple linear regression model with interactions to predict sales
+
+* Analyzed the largest real estate market in the U.S.-NY(Kaggle Dataset 2016-2017) to predict the sale price
+* Cleaned data and transformed qualitative variables(Borough and Dates) for later process of building multiple linear regression model
+* Conducted data analysis with regression techniques, including the use of transformations such as squares and logarithms, the modeling of interactions, and handling problems resulting from heteroscedastic and multicollinearity
+* Constructed a multiple linear regression model through brute force and added interaction terms to improve the model for predicting the sale price
